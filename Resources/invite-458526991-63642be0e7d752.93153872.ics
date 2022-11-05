@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20221103T210016Z
+UID:87b6d8bca43e8a864905896c25c3d0c000dfd0ce@cen-githubportf
+ olio110322.splashthat.com
+URL:https://cen-githubportfolio110322.splashthat.com
+DTSTART:20221103T220000Z
+DTEND:20221103T230000Z
+ORGANIZER;CN="Career Engagement Network":mailto:cen-githubpo
+ rtfolio110322@splash.tools
+SUMMARY:Building a Competitive GitHub & Online Technical Por
+ tfolio
+DESCRIPTION:This is your unique check-in link: https://cen-g
+ ithubportfolio110322.splashthat.com/virtual?guest-access-has
+ h=NDU4NTI2OTkxfDU4NTU5MTk1OXwxNjY3NTA5MjE2OzUxNTdhM2E3ZTRiZW
+ RlOTM4N2MxNDUyMzNlZWFlNzVjMjA3YTIxZDVkNWU1YmFiZWYyYWIxYjJlYz
+ BkM2JmMzM%3D
+LOCATION:Virtual
+END:VEVENT
+END:VCALENDAR
+
