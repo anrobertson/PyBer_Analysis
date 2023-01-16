@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of Analysis
-For this project, I created a summary DataFrame of ride sharing data by city type for Pyber.
+Using Pandas and Matplotlib on Jupyter Notebook to analyze and create a summary DataFrame of ride sharing data by city type for Pyber.
 
 ## Technologies used:
 * Python
